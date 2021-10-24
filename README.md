@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raqso&show_icons=true&locale=en" alt="raqso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raqso&" alt="raqso" /></p>
+
+<h3>Random joke:</h3>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
