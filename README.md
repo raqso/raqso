@@ -17,5 +17,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raqso&" alt="raqso" /></p>
 
+<p><a href="https://app.daily.dev/raqso"><img src="https://api.daily.dev/devcards/0b09d8d9b5234673b3d9959ad376ad1d.png?r=2bf" width="400" alt="Adam's Dev Card"/></a></p>
+
 <h3>Random joke:</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
