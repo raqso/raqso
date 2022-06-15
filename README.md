@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raqso" alt="raqso" /></a> </p>
 
-- 🔭 I’m currently working on [Wittario](https://www.wittar.io/)
+- 🔭 I’m currently working on [Pletly](https://www.wittar.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
